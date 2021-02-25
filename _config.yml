@@ -106,9 +106,6 @@ deploy:
 - type: git
   repo: git@github.com:MAO486/mao486.github.io.git
   branch: master
-- type: git
-  repo: git@e.coding.net:mao486/mao486/mao486.git 
-  branch: master
 
 #RSS
 feed:
