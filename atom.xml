@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://mao486.github.io/</id>
+    <title>スバル</title>
+    <updated>2023-02-16T13:12:25.320Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://mao486.github.io/"/>
+    <link rel="self" href="https://mao486.github.io/atom.xml"/>
+    <subtitle>一个宅的“家”</subtitle>
+    <logo>https://mao486.github.io/images/avatar.png</logo>
+    <icon>https://mao486.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, スバル</rights>
+    <entry>
+        <title type="html"><![CDATA[网盘挂载到本地]]></title>
+        <id>https://mao486.github.io/wang-pan-gua-zai-dao-ben-di/</id>
+        <link href="https://mao486.github.io/wang-pan-gua-zai-dao-ben-di/">
+        </link>
+        <updated>2023-02-08T16:41:06.000Z</updated>
+        <content type="html"><![CDATA[<!-- more -->
+<h1 id="alist-doc">Alist Doc</h1>
+<p>官网<a href="https://alist-doc.nn.ci/docs/intro/">https://alist-doc.nn.ci/docs/intro/</a></p>
+<p>AList安装教程 – 聚合阿里云盘、百度网盘、谷歌云盘、WebDav 等 18 款网盘 | 零度解说<a href="https://youtu.be/12QoxeljMoY">https://youtu.be/12QoxeljMoY</a></p>
+<p>【软件教程】如何将夸克网盘挂载为本地磁盘【Docker+AList+RaiDrive】<a href="https://blog.csdn.net/zhangjiuding/article/details/127134391">https://blog.csdn.net/zhangjiuding/article/details/127134391</a></p>
+<p>如何废物利用夸克网盘——用alist挂载为网络硬盘<a href="https://bbs.oldmanemu.net/thread-20482.htm">https://bbs.oldmanemu.net/thread-20482.htm</a></p>
+<p>我的零成本替代NAS追剧方案：Alist挂载夸克、阿里云盘追剧<a href="https://post.smzdm.com/p/agqzzdpm/">https://post.smzdm.com/p/agqzzdpm/</a></p>
+<p>将各大网盘挂载本地使用！爽！<a href="https://developer.aliyun.com/article/1044980">https://developer.aliyun.com/article/1044980</a></p>
+<h1 id="相关教程">相关教程</h1>
+<p>使用FileBox挂载夸克网盘<a href="https://www.imtrq.com/archives/3015">https://www.imtrq.com/archives/3015</a></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Watch Series 3]]></title>
+        <id>https://mao486.github.io/iwatch/</id>
+        <link href="https://mao486.github.io/iwatch/">
+        </link>
+        <updated>2023-02-05T08:55:42.000Z</updated>
+        <summary type="html"><![CDATA[<p>换了个Apple Watch Series 3</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>换了个Apple Watch Series 3</p>
+<!-- more -->
+<figure data-type="image" tabindex="1"><img src="https://img.xn--5ivs9a.work/images/2023/02/05/buy_iWatch.jpg" alt="" loading="lazy"></figure>
+<p>是本地自提，一位老哥18年买的，整体成色还不错，就是电池健康度剩下87%了</p>
+<p>试了试还不错的，就是没有血氧，不过不要紧！</p>
+<p>睡眠监测也不知道该怎么看，不过能够通过手表回微信，贼棒……爱了！</p>
+<p>血氧好像是S6才有，这个跟我的iPhone7s没什么关系JPG</p>
+<p>先试用一周看看</p>
+<p>晚上22点充电看看能用到什么时间<br>
+——2023-01-30记</p>
+<p>晚上睡前充满电，能用到我下班回来<br>
+——2023-02-01记</p>
+<p>充电大概50分钟左右？虽然都是有空就丢下去充电，但是还真没认真计时过……手机都是到家就插上充电器的<br>
+——2023-02-04记</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RedMi Watch 2]]></title>
+        <id>https://mao486.github.io/redmi-watch-2/</id>
+        <link href="https://mao486.github.io/redmi-watch-2/">
+        </link>
+        <updated>2023-01-07T08:26:17.000Z</updated>
+        <summary type="html"><![CDATA[<p>买了个Watch2来玩玩</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>买了个Watch2来玩玩</p>
+<!-- more -->
+<h1 id="功能">功能</h1>
+<p>跟Watch1差不多吧，总体上来说比1实用性高很多</p>
+<p>多了血氧、GPS等功能，睡眠也更完善，系统菜单也不是PPT</p>
+<p>不过它的卡路里检测有点问题吧，我在家里坐着，卡路里天上来哈哈哈哈</p>
+<h1 id="购入">购入</h1>
+<p>选了个价格便宜，成色也算过得去的</p>
+<p>虽然朋友看了之后摇头说这并不怎样，但其实已经是很便宜的了……还有又贵又差的，我是还要考虑买表带（三株或真皮）不然也不会选这个</p>
+<p>由于太便宜没有送充电器，自己买了个来用</p>
+<h1 id="放弃">放弃</h1>
+<p>某天晚上出去的路上，坐在摩托车后座，突然手表给我提示说心率超过160</p>
+<p>本人毫无不适感，因此放弃使用此手表！</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RedMi Watch]]></title>
+        <id>https://mao486.github.io/redmi-watch/</id>
+        <link href="https://mao486.github.io/redmi-watch/">
+        </link>
+        <updated>2022-12-30T15:53:13.000Z</updated>
+        <content type="html"><![CDATA[<!-- more -->
+<p>其实是看上红米手表3，但是因为没戴过这类手表，就从海鲜市场找个看起来还行的红米手表1来试试看</p>
+<p>在路上了，过几天再补充内容</p>
+<p>拿到手了，还行吧……有些功能要在手表里设置。比如心率检测……orz</p>
+<h1 id="2023-01-03">2023-01-03</h1>
+<p>拿到货，我先用一周看看，到手电量是97%，给充电到100%了！顺便把手表的功能都看了一遍</p>
+<h1 id="2023-01-04">2023-01-04</h1>
+<p>电量：91%（2023-01-05 0点记录）</p>
+<p>消息通知：短信、QQ、微信、闲鱼</p>
+<p>心率检测：间隔一分钟</p>
+<p>睡眠检测也开了……但是好垃圾，比起手环来说太垃圾了，不知道后面几代有没有改进，最烦初代手表睡眠检测烂成泥！</p>
+<p>手腕感觉还行，并不会有被手表扯着的感觉，总体来说比华为S1手表好多了！</p>
+<h1 id="2023-01-05">2023-01-05</h1>
+<p>电量：74%（01-06 01点记录）</p>
+<p>今天消息通知比较多，导致电量快速下降</p>
+<p>已经在打算换成2代了，准备录个使用记录视频，然后挂售</p>
+<p>玩还是挺好玩的，就是功能太少了</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022.12]]></title>
+        <id>https://mao486.github.io/202212/</id>
+        <link href="https://mao486.github.io/202212/">
+        </link>
+        <updated>2022-11-30T18:55:45.000Z</updated>
+        <content type="html"><![CDATA[<!-- more -->
+<h1 id="11">11</h1>
+<p>最近看了眼那个百合泰剧，嗯……其实就是霸总文改编吧？！边看边笑边吐槽</p>
+<h1 id="10">10</h1>
+<p><a href="https://www.bilibili.com/video/BV1hK41167zi/">https://www.bilibili.com/video/BV1hK41167zi/</a></p>
+<p>看爆！真的很好看！</p>
+<h1 id="07">07</h1>
+<p><a href="http://jishi.cctv.com/2016/06/29/VIDEkf7hLfh7M6cK1oRJQbbF160629.shtml">http://jishi.cctv.com/2016/06/29/VIDEkf7hLfh7M6cK1oRJQbbF160629.shtml</a></p>
+<p>是纪录片</p>
+<h1 id="03">03</h1>
+<p><a href="https://weibo.com/6003325152/MhUmtqUlr">https://weibo.com/6003325152/MhUmtqUlr</a></p>
+<p>笑死，原来脸盲还是星座本性啊，我还以为我™怎么老是记不住人，一开始只能用声音辨认</p>
+<p>确实很随缘吧……随缘就好随缘就好</p>
+<h1 id="01">01</h1>
+<p><a href="https://twitter.com/oasisfeng/status/1597796602718343168">https://twitter.com/oasisfeng/status/1597796602718343168</a></p>
+<p>似乎是密码锁，装修的时候可以搞个，或者用评论里提到的装修公司的密码盒子</p>
+<p>今天的天气真冷，差点就冻疮了……</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chrome浏览器F12截取整个网页方法]]></title>
+        <id>https://mao486.github.io/chrome-liu-lan-qi-f12-jie-qu-zheng-ge-wang-ye-fang-fa/</id>
+        <link href="https://mao486.github.io/chrome-liu-lan-qi-f12-jie-qu-zheng-ge-wang-ye-fang-fa/">
+        </link>
+        <updated>2022-11-30T18:53:13.000Z</updated>
+        <content type="html"><![CDATA[<p>打开chrome<br>
+F12<br>
+输入CTRL+Shift+P<br>
+<code>Capture full size screenshot</code><br>
+将当前页面截图并下载</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[明日方舟好友助战]]></title>
+        <id>https://mao486.github.io/ming-ri-fang-zhou-hao-you-zhu-zhan/</id>
+        <link href="https://mao486.github.io/ming-ri-fang-zhou-hao-you-zhu-zhan/">
+        </link>
+        <updated>2022-11-18T07:34:40.000Z</updated>
+        <content type="html"><![CDATA[<!-- more -->
+<p>方便自己也方便他人的助战列表</p>
+<blockquote>
+<p>更新时间：2022-11-26</p>
+</blockquote>
+<h1 id="国服官服">国服官服</h1>
+<h1 id="1507463">1507463</h1>
+<p><img src="https://img.xn--5ivs9a.work/images/2022/11/26/CN1507463.png" alt="" loading="lazy"><br>
+<img src="https://img.xn--5ivs9a.work/images/2022/11/26/CN-1507463_1.png" alt="" loading="lazy"><br>
+<img src="https://img.xn--5ivs9a.work/images/2022/11/26/CN-1507463_2.png" alt="" loading="lazy"></p>
+<h1 id="30644121">30644121</h1>
+<p><img src="https://mao486.github.io//post-images/ak/30644121.png" alt="" loading="lazy"><br>
+<img src="https://mao486.github.io//post-images/ak/CN30644121.png" alt="" loading="lazy"></p>
+<h1 id="303840438">303840438</h1>
+<p><img src="https://mao486.github.io//post-images/ak/303840438.png" alt="" loading="lazy"><br>
+<img src="https://mao486.github.io//post-images/ak/CN303840438.png" alt="" loading="lazy"></p>
+<h1 id="773647902">773647902</h1>
+<p><img src="https://mao486.github.io//post-images/ak/773647902.png" alt="" loading="lazy"><br>
+<img src="https://mao486.github.io//post-images/ak/CN773647902.png" alt="" loading="lazy"></p>
+<h1 id="420712102">420712102</h1>
+<p><img src="https://mao486.github.io//post-images/ak/420712102.png" alt="" loading="lazy"><br>
+<img src="https://mao486.github.io//post-images/ak/CN420712102.png" alt="" loading="lazy"></p>
+<h1 id="081348804">081348804</h1>
+<figure data-type="image" tabindex="1"><img src="https://mao486.github.io//post-images/ak/081348804.png" alt="" loading="lazy"></figure>
+<h1 id="319461315">319461315</h1>
+<p><img src="https://mao486.github.io//post-images/ak/319461315.png" alt="" loading="lazy"><br>
+<img src="https://mao486.github.io//post-images/ak/CN319461315.png" alt="" loading="lazy"></p>
+<h1 id="国际服日服">国际服日服</h1>
+<h1 id="17899591">17899591</h1>
+<p><img src="https://img.xn--5ivs9a.work/images/2022/11/26/JP17899591.png" alt="" loading="lazy"><br>
+<img src="https://img.xn--5ivs9a.work/images/2022/11/26/JP-17899591.png" alt="" loading="lazy"></p>
+<h1 id="21258805">21258805</h1>
+<figure data-type="image" tabindex="2"><img src="https://img.xn--5ivs9a.work/images/2022/11/18/21258805.png" alt="" loading="lazy"></figure>
+<h1 id="91414615">91414615</h1>
+<figure data-type="image" tabindex="3"><img src="https://img.xn--5ivs9a.work/images/2022/11/18/91414615.png" alt="" loading="lazy"></figure>
+<h1 id="94013319">94013319</h1>
+<figure data-type="image" tabindex="4"><img src="https://img.xn--5ivs9a.work/images/2022/11/19/94013319.jpg" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[薅]]></title>
+        <id>https://mao486.github.io/hao/</id>
+        <link href="https://mao486.github.io/hao/">
+        </link>
+        <updated>2022-11-13T17:35:57.000Z</updated>
+        <content type="html"><![CDATA[<!-- more -->
+<blockquote>
+<p>带AFF都是人头，有兴趣可以试试（可以薅一丢丢）</p>
+</blockquote>
+<h1 id="趣投aff">趣投（AFF）</h1>
+<p><a href="http://t.sdxddm.cn/user/browser.html?1668361703501">http://t.sdxddm.cn/user/browser.html?1668361703501</a></p>
+<blockquote>
+<p>这个是各种完成各种投票，然后攒积分提现，微信扫码下图</p>
+</blockquote>
+<figure data-type="image" tabindex="1"><img src="https://img.xn--5ivs9a.work/images/2022/11/13/921668360811.png" alt="" loading="lazy"></figure>
+<h1 id="快鸭">快鸭</h1>
+<p><a href="https://yj906-1-1309352875.cos.ap-guangzhou.myqcloud.com/yjentry.html">https://yj906-1-1309352875.cos.ap-guangzhou.myqcloud.com/yjentry.html</a></p>
+<h2 id="1104">11.04</h2>
+<p><a href="http://m.zxd01.top/">http://m.zxd01.top/</a></p>
+<p><a href="http://m.b3y8.top/">http://m.b3y8.top/</a></p>
+<h2 id="1106">11.06</h2>
+<p><a href="http://m.mosb.top/">http://m.mosb.top/</a></p>
+<p><a href="http://m.kundxx.top/">http://m.kundxx.top/</a></p>
+<h1 id="趣闲赚aff">趣闲赚（AFF）</h1>
+<blockquote>
+<p>里面有各种任务，下载app或者各种微信认证啥的，好像是微信扫码注册下载</p>
+</blockquote>
+<figure data-type="image" tabindex="2"><img src="https://img.xn--5ivs9a.work/images/2022/11/14/WeChat7079ff47ebec6d0a5da74d1e9669dfc8.png" alt="" loading="lazy"></figure>
+<h1 id="赏帮赚aff">赏帮赚（AFF）</h1>
+<blockquote>
+<p>和上面那个差不多，我一般会在两个软件来回看看，货比两家，应该也是微信扫码注册下载？</p>
+</blockquote>
+<figure data-type="image" tabindex="3"><img src="https://img.xn--5ivs9a.work/images/2022/11/14/WeChat75380f366bf6b2dafc071e2ab6671a9b.png" alt="" loading="lazy"></figure>
+<blockquote>
+<p>新用户、老用户：下面的需要是新用户或者几个月没登录的老用户，扫码或者填写邀请码能获得金币，金币可以兑换成提现</p>
+</blockquote>
+<h1 id="抖音极速版aff">抖音极速版（AFF）</h1>
+<blockquote>
+<p>这个有时候能日提0.8，只要你金币够！</p>
+</blockquote>
+<p>邀请码：8707529394</p>
+<figure data-type="image" tabindex="4"><img src="https://img.xn--5ivs9a.work/images/2022/11/14/dyjsb.jpg" alt="" loading="lazy"></figure>
+<h1 id="快手极速版aff">快手极速版（AFF）</h1>
+<blockquote>
+<p>跟上面那个没多大区别，日提0.3</p>
+</blockquote>
+<p>邀请码：9034607067</p>
+<figure data-type="image" tabindex="5"><img src="https://img.xn--5ivs9a.work/images/2022/11/14/ksjsb.jpg" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[饮食品鉴记录]]></title>
+        <id>https://mao486.github.io/yin-shi-pin-jian-ji-lu/</id>
+        <link href="https://mao486.github.io/yin-shi-pin-jian-ji-lu/">
+        </link>
+        <updated>2022-11-13T10:15:31.000Z</updated>
+        <content type="html"><![CDATA[<!-- more -->
+<h1 id="评价标准">评价标准</h1>
+<blockquote>
+<p>★★★★★：十分推荐，个人也很喜欢<br>
+★★★★：还不错，喜欢但不会经常点<br>
+★★★：一般般，要么好吃，要么性价比高<br>
+★★：属于能吃的那种<br>
+★：吃一次就够了（要么是口味选错了，要么是真的很难吃）</p>
+</blockquote>
+<h1 id="商家地址">商家地址</h1>
+<table>
+<thead>
+<tr>
+<th style="text-align:center">店铺</th>
+<th style="text-align:center">地址</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">桃园三章</td>
+<td style="text-align:center">广东省揭阳市榕城区临江南路江南新城2期8号铺</td>
+</tr>
+<tr>
+<td style="text-align:center">蜜雪冰城</td>
+<td style="text-align:center">广东省揭阳市榕城区同心路中段西侧145号</td>
+</tr>
+<tr>
+<td style="text-align:center">春陽LAB</td>
+<td style="text-align:center">广东省揭阳市榕城区临江南路江南新城三期4号铺</td>
+</tr>
+<tr>
+<td style="text-align:center">LINLEE手打柠檬茶</td>
+<td style="text-align:center">广东省揭阳市榕城区同心路47号</td>
+</tr>
+<tr>
+<td style="text-align:center">好泰泰式茶饮</td>
+<td style="text-align:center">广东省揭阳市榕城区仁港路仁港美食街D栋</td>
+</tr>
+<tr>
+<td style="text-align:center">白塔牛肉店</td>
+<td style="text-align:center">广东省揭阳市榕城区巷畔村公所对面</td>
+</tr>
+<tr>
+<td style="text-align:center">米西米西</td>
+<td style="text-align:center">广东省揭阳市榕城区榕华毓秀路榕建幼儿园北侧榕建公司宿舍楼底层</td>
+</tr>
+<tr>
+<td style="text-align:center">白塔旭兴鲜牛肉</td>
+<td style="text-align:center">广东省揭阳市榕城区埔上河墘路南金凤园铺面12号</td>
+</tr>
+<tr>
+<td style="text-align:center">餐有范</td>
+<td style="text-align:center">广东省揭阳市榕城区新兴街道东湖路上义鞋城52号</td>
+</tr>
+<tr>
+<td style="text-align:center">汕头波记牛肉店</td>
+<td style="text-align:center">广东省揭阳市榕城区义和路5号农机学校东侧大院楼下4-5号铺</td>
+</tr>
+<tr>
+<td style="text-align:center">填仔砂锅</td>
+<td style="text-align:center">揭阳市榕城区榕华埔上村同心路西十巷二分之一号(埔田草鱼粥对面)</td>
+</tr>
+<tr>
+<td style="text-align:center">一咖一柠</td>
+<td style="text-align:center">榕城区天福东路巷畔社区商住楼8号铺</td>
+</tr>
+</tbody>
+</table>
+<h1 id="个人评价">个人评价</h1>
+<h2 id="饮品">饮品</h2>
+<table>
+<thead>
+<tr>
+<th style="text-align:center">商品</th>
+<th style="text-align:center">口味</th>
+<th style="text-align:center">温度</th>
+<th style="text-align:center">店铺</th>
+<th style="text-align:center">推荐</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">杨枝甘露</td>
+<td style="text-align:center">少糖</td>
+<td style="text-align:center">标准冰</td>
+<td style="text-align:center">桃园三章</td>
+<td style="text-align:center">★★★★★</td>
+</tr>
+<tr>
+<td style="text-align:center">白桃乌龙拿铁</td>
+<td style="text-align:center">标准糖</td>
+<td style="text-align:center">去冰</td>
+<td style="text-align:center">桃园三章</td>
+<td style="text-align:center">★★★★★</td>
+</tr>
+<tr>
+<td style="text-align:center">厚芋泥撞撞奶绿</td>
+<td style="text-align:center">标准糖</td>
+<td style="text-align:center">去冰</td>
+<td style="text-align:center">桃园三章</td>
+<td style="text-align:center">★吃不惯</td>
+</tr>
+<tr>
+<td style="text-align:center">白桃乌龙奶茶</td>
+<td style="text-align:center">标准糖</td>
+<td style="text-align:center">热饮</td>
+<td style="text-align:center">桃园三章</td>
+<td style="text-align:center">★★★★★</td>
+</tr>
+<tr>
+<td style="text-align:center">雪王雪顶咖啡</td>
+<td style="text-align:center">正常糖</td>
+<td style="text-align:center">少冰</td>
+<td style="text-align:center">蜜雪冰城</td>
+<td style="text-align:center">★★★★</td>
+</tr>
+<tr>
+<td style="text-align:center">布丁鲜奶茶</td>
+<td style="text-align:center">全糖</td>
+<td style="text-align:center">温</td>
+<td style="text-align:center">春陽LAB</td>
+<td style="text-align:center">★甜鼾了</td>
+</tr>
+<tr>
+<td style="text-align:center">春阳乌龙珍珠奶茶</td>
+<td style="text-align:center">半糖</td>
+<td style="text-align:center">温热</td>
+<td style="text-align:center">春陽LAB</td>
+<td style="text-align:center"></td>
+</tr>
+<tr>
+<td style="text-align:center">桃桃乌龙鲜奶茶</td>
+<td style="text-align:center">7分糖</td>
+<td style="text-align:center">温热</td>
+<td style="text-align:center">LINLEE</td>
+<td style="text-align:center">★★★</td>
+</tr>
+<tr>
+<td style="text-align:center">桃子xxxx沙冰</td>
+<td style="text-align:center">标准糖</td>
+<td style="text-align:center">沙冰</td>
+<td style="text-align:center">好泰泰式茶饮</td>
+<td style="text-align:center">★★★★★</td>
+</tr>
+<tr>
+<td style="text-align:center">冰拿铁</td>
+<td style="text-align:center">无糖</td>
+<td style="text-align:center">少冰</td>
+<td style="text-align:center">一咖一柠</td>
+<td style="text-align:center">★★★</td>
+</tr>
+</tbody>
+</table>
+<h2 id="正餐">正餐</h2>
+<table>
+<thead>
+<tr>
+<th style="text-align:center">商品</th>
+<th style="text-align:center">店铺</th>
+<th style="text-align:center">推荐</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">鲜牛肉米粉汤</td>
+<td style="text-align:center">白塔牛肉店</td>
+<td style="text-align:center">★★★</td>
+</tr>
+<tr>
+<td style="text-align:center">湿炒芥兰牛肉粿</td>
+<td style="text-align:center">白塔牛肉店</td>
+<td style="text-align:center">★★★★</td>
+</tr>
+<tr>
+<td style="text-align:center">火山石（烤肉肠）、日式蟹柳饭、昆布汤、日式小菜</td>
+<td style="text-align:center">米西米西</td>
+<td style="text-align:center">★★★★</td>
+</tr>
+<tr>
+<td style="text-align:center">湿炒牛肉粿</td>
+<td style="text-align:center">白塔旭兴鲜牛肉</td>
+<td style="text-align:center">★★★★</td>
+</tr>
+<tr>
+<td style="text-align:center">新奥鸡扒拼牛肉饭</td>
+<td style="text-align:center">餐有范</td>
+<td style="text-align:center">★★★★★</td>
+</tr>
+<tr>
+<td style="text-align:center">湿炒牛肉粿（大份）</td>
+<td style="text-align:center">汕头波记牛肉店</td>
+<td style="text-align:center">★★★★</td>
+</tr>
+<tr>
+<td style="text-align:center">日式蟹柳饭、昆布汤、日式小菜</td>
+<td style="text-align:center">米西米西</td>
+<td style="text-align:center">★★★★★</td>
+</tr>
+<tr>
+<td style="text-align:center">台湾烤肠捞面（OX酱）</td>
+<td style="text-align:center">黄小姐饭团小吃</td>
+<td style="text-align:center">★★★★</td>
+</tr>
+<tr>
+<td style="text-align:center">砂锅鳝鱼面</td>
+<td style="text-align:center">填仔砂锅</td>
+<td style="text-align:center">★★★★</td>
+</tr>
+</tbody>
+</table>
+<h2 id="小吃">小吃</h2>
+<table>
+<thead>
+<tr>
+<th style="text-align:center">商品</th>
+<th style="text-align:center">店铺</th>
+<th style="text-align:center">推荐</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">嫩牛五方单人餐（限量活动）</td>
+<td style="text-align:center">至尊汉堡·嫩牛五方·韩式炸鸡</td>
+<td style="text-align:center"></td>
+</tr>
+<tr>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+</tr>
+<tr>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+</tr>
+<tr>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+</tr>
+<tr>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+</tr>
+<tr>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+</tr>
+<tr>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+</tr>
+<tr>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+</tr>
+<tr>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+</tr>
+<tr>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+</tr>
+</tbody>
+</table>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[提高效率]]></title>
+        <id>https://mao486.github.io/ti-gao-xiao-lu/</id>
+        <link href="https://mao486.github.io/ti-gao-xiao-lu/">
+        </link>
+        <updated>2022-11-13T09:36:18.000Z</updated>
+        <content type="html"><![CDATA[<!-- more -->
+<blockquote>
+<p>来源：<a href="https://www.xiaohongshu.com/discovery/item/632addbb0000000018015904">小红书</a></p>
+</blockquote>
+<ol>
+<li>Holly Gabrielle〈如何度过一个高效的早晨〉，缺少动力或迷茫去看。</li>
+<li>john fish 〈一百周阅读了一百本书｜读书的意义〉，培养阅读习惯。</li>
+<li>Ali Abdaal 〈如何在考前高效复习〉，高效率复习方法。</li>
+<li>ruby granger〈如何正确利用休息时间｜平衡学习和娱乐〉，高效恢复。</li>
+<li>holly gaberille〈从没有人告诉过你的学习时间和管理技巧〉，指定计划，确认优先级，用定时器，学会学习管理。</li>
+</ol>
+]]></content>
+    </entry>
+</feed>
